@@ -16,5 +16,3 @@ The fuselage integration component of my wing is pictured below.
 
 In order to prepare for the next phase of my next phase of my wing desing (internals) I CADed a hollow version of my wings and ran some interference tests:
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
-
