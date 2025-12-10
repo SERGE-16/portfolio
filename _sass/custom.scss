@@ -148,14 +148,16 @@ footer {
 }
 
 .gallery-item {
-  overflow: visible;       // important
-  max-width: 250px;
-  /* no max-height here */
+  overflow: hidden;
+  text-align: center;
+  transition: transform 0.3s ease;
+  max-width: 250px; 
+  max-height: 300px; 
 }
 
 .gallery-item img {
   width: 100%;
-  height: 180px;           // fixed image height
+  height: 85%;         // fixed image height
   object-fit: cover;
   display: block;
   object-position: center;
