@@ -10,7 +10,7 @@ The design and analysis of an instrumeted torque wrench serves as my Mechanics o
 The first goal of the project was to design a torque wrench that wouldn't fail under a load of 37.5lbf applied when applied at its handle.
 This design condition assumes that the torque wrench is constrained at its head. The second goal was to design to the torque wrench so it recorded
 a reading of at least 1 mV/V from its attached strain gagues. This corresponds to a deflection of 1000 microstrain. We need a design that is both strong,
-and not too resistant to yielding to achieve both goals.
+and not too resistant to deformation to achieve both goals.
 
 
 <iframe 
