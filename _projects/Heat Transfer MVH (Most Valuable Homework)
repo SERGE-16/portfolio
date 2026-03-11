@@ -2,7 +2,6 @@
 layout: project
 title: Heat Transfer MVH (Most Valuable Homework)
 description: The Homework That Resonated With Me The Most
-image: /assets/images/Old_Images/Centrifugal_Fan.HEIC
 ---
 
 The Assignment that was the most valuable for me was homework 2. Learning how to apply resistance method when solving heat transfer problems 
@@ -12,7 +11,7 @@ With the addition of a better understand of fins and other practical methods of 
 transfer problems
 
 <iframe 
-    src="{{ '/assets/images/' | relative_url }}" 
+    src="{{ 'assets/images/combinepdf__10_.pdf' | relative_url }}" 
     width="100%" 
     height="600px">
 </iframe>
